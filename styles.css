@@ -201,7 +201,7 @@ body {
     cursor: pointer;
 }
 
-.news-home__text-button:active {
+.news-home__text-button:hover {
     background-color: hsl(240, 100%, 5%);
 }
 
